@@ -1,2 +1,3 @@
-# docker-feddata
-Docker image providing FedData R package.
+# openskope/feddata
+
+Docker image providing FedData R package. 

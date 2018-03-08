@@ -1,0 +1,48 @@
+docker image name               : openskope/feddata
+os name                         : GNU/Linux
+target hardware platform        : x86_64
+user name                       : skope
+primary user group name         : skope
+user id                         : 1000
+primary user group id           : 1000
+all groups user is member of    : skope
+user home directory             : /home/skope
+properties of home directory    : drwxr-xr-x skope skope /home/skope
+initial working directory       : /workspace
+properties of working directory : drwxr-xr-x skope skope /workspace
+user shell                      : /bin/bash
+user PATH                       : /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/gdal/gdal-2.1.2/bin/
+python2 version                 : Python 2.7.12
+python3 version                 : Python 3.5.2
+python default version          : Python 2.7.12
+pip2 version                    : pip 9.0.1 from /usr/local/lib/python2.7/dist-packages (python 2.7)
+pip3 version                    : pip 9.0.1 from /usr/local/lib/python3.5/dist-packages (python 3.5)
+pip default version             : pip 9.0.1 from /usr/local/lib/python3.5/dist-packages (python 3.5)
+user PYTHONPATH                 : /opt/gdal/gdal-2.1.2/lib/python2.7/site-packages/
+user LD_LIBRARY_PATH            : /opt/gdal/gdal-2.1.2/lib/
+numpy package version (python2) : 1.12.1
+numpy package version (python3) : 1.12.1
+gdal package version (python2)  : 2.1.2
+gdal package version (python3)  : 2.1.2
+gdallocationinfo version        : GDAL 2.1.2, released 2016/10/24
+gdal2tiles.py version           : GDAL 2.1.2, released 2016/10/24
+r-base package version          : 3.4.3-1xenial0
+libproj-dev package version     : 4.9.2-2
+llibgeos-3.5.0 package version  : 3.5.0-1ubuntu2
+libgeos-dev apt package version : 3.5.0-1ubuntu2
+netcdf-bin package version      : 1:4.4.0-2
+libnetcdf-dev package version   : 1:4.4.0-2
+libcurl4-openssl-dev version    : 7.47.0-1ubuntu2.6
+llibssl-dev package version     : 1.0.2g-1ubuntu4.10
+libxml2-dev package version     : 2.9.3+dfsg1-1ubuntu0.5
+R version                       : R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+base r package version          : 3.4.3
+magrittr r package version      : 1.5
+ncdf4 r package version         : 1.16
+optparse r package version      : 1.4.4
+raster r package version        : 2.6.7
+rgdal r package version         : 1.2.16
+rgeos r package version         : 0.3.26
+tidyverse r package version     : 1.2.1
+XML r package version           : 3.98.1.10
+FedData r package version       : 2.5.1
